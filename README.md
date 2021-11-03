@@ -7,11 +7,13 @@ I try to learn and study when ever i have a capacity
 ---
 
 🧰 Toolbox
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="Mongo" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="90" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="90" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="Jypyter" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c++/c++-original.svg" alt="C++" width="50" height="50"/>
 
 
 
