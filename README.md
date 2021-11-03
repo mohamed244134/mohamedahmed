@@ -3,7 +3,7 @@
 ---
 A Mechatronics Engineer who is on his way for doing a career shift 😁
 
-I try to learn and study when ever i have a capacity
+I try to learn and study when ever i have a capacity ..
 ---
 
 🧰 Toolbox
@@ -16,6 +16,7 @@ I try to learn and study when ever i have a capacity
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="Matlab" width="50" height="50"/>
 
 
 
