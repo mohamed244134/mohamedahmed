@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mohamed!
 
 ---
-A Mechatronics Engineer who is on his way for doing a career shift Currently I'm doing my military service 👮‍♂ i'll finish at 25/05/2023😁
+I am A Software Engineer with +3 years of experience building reliable, maintainable and scalable software in different fields .
 
 I try to learn and study when ever i have a capacity ..
 ---
